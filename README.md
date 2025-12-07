@@ -33,21 +33,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brendow271&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendow271&layout=compact&theme=radical)
-
 ## 🔥 Стрик активности
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Brendow271&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brendow271)](https://git.io/streak-stats)
 
 
 ## 💼 Закрепленные проекты
 
 - [Java-translator-T-bank](https://github.com/Brendow271/Java-translator-T-bank) - Веб-приложение для перевода слов с использованием Yandex Translate API
-- [Harmony]([https://github.com/Brendow271/bill_splitter](https://github.com/Brendow271/it-2025-sD4yp/tree/develop/project/Harmony)) - Музыкальный Tinder
+- [Harmony](https://github.com/Brendow271/it-2025-sD4yp/tree/develop/project/Harmony) - Музыкальный Tinder
 - [JavaPolytech](https://github.com/Brendow271/JavaPolytech) - Проекты по базовой Java при Политехе
 - [MathStats_Polytech](https://github.com/Brendow271/MathStats_Polytech) - Математическая статистика при Политехе
 - [XmlFabric](https://github.com/Brendow271/XmlFabric) - Работа с XML
